@@ -2,7 +2,7 @@
 
 ## Set up the back end project for use
 - open the `BE` folder in `intellij IDEA` as a project
-- follow the README.md files instructions to set up the properties file with your credentials and get the backend up and running before the code along.
+- follow the [README.md](./BE/README.md) files instructions to set up the properties file with your credentials and get the backend up and running before the code along.
 
 ## Set up the front end
 - open up the `FE/reactFE` folder inside `vscode` or your favorite editor of choice.

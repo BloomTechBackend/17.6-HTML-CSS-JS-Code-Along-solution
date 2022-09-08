@@ -6,5 +6,5 @@
 
 ## Set up the front end
 - open up the `FE/reactFE` folder inside `vscode` or your favorite editor of choice.
-- open the terminal tab in `vscode` and type `npm start` to run the react application.
+- open the terminal tab in `vscode` and type `npm install && npm start` to run the react application.
 - browse to `http://localhost:3000/` to see the react application is running before start of the code along.
